@@ -42,7 +42,7 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
+<p align="left">
   <br/>
     <a href="https://github.com/Chirag-ahir/github-readme-stats"><img alt="Chirag-ahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chirag-ahir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Chirag-ahir/github-readme-stats"><img alt="Chirag-ahir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-ahir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
