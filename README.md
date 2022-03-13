@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Chirag</h1>
-<h3 align="center">I'm a passionate Frontend Developer.</h3>
+<h3 align="center">I'm a passionate Web Developer.</h3>
 <h6 align="center">Converting Dreams into reality</h6>
 
 <br>
