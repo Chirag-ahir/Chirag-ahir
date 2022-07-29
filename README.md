@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/Chirag_Ahir)**
 
-- 📫 How to reach me **ahirchirag1459@gmail.com**
+- 📫 How to reach me **findchiragahir@gmail.com**
 
 - ⚡ Fun fact **I code in Python and HTML very often.**
 
