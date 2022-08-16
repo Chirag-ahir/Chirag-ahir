@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Pursuing B.E in E.C from  **[VGCE Chandkheda](https://www.vgecg.ac.in/)**
+- 🔭 Completed gaduation in B.E in E.C from  **[VGCE Chandkheda](https://www.vgecg.ac.in/)**
 
 - 🌱 I’m currently learning **Web Development.**
 
