@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Completed gaduation in B.E in E.C from  **[VGCE Chandkheda](https://www.vgecg.ac.in/)**
+- 🔭 Completed Bachelor's from  **[VGCE Chandkheda](https://www.vgecg.ac.in/)**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 Passionate about **Web Development.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/Chirag_Ahir)**
 
