@@ -36,7 +36,7 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
     <img src="https://img.icons8.com/color/48/000000/shopify.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodeJS.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
 
 #### Front-end
