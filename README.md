@@ -12,7 +12,7 @@
 
 - 🌱 Passionate about **Web Development.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/Chirag_Ahir)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://linktr.ee/chiragahir)**
 
 - 📫 How to reach me **findchiragahir@gmail.com**
 
