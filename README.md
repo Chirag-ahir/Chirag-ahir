@@ -1,6 +1,6 @@
 <!--<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>-->
 
-<img width="100%" src="[https://hypergr.am/wp-content/uploads/2022/06/web-development-2.jpg](https://www.evelogics.com/wp-content/uploads/2022/06/61be16afc2df9.jpg)">
+<img width="100%" src="https://www.evelogics.com/wp-content/uploads/2022/06/61be16afc2df9.jpg">
 
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Chirag</h1>
