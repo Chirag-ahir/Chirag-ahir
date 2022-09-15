@@ -1,4 +1,6 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<!--<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>-->
+
+<img width="100%" height="50%" src="https://camo.githubusercontent.com/72e0bda50e8d43d0bfbaf4454548593aeed14ce25e002fd837a618cb1853b6df/68747470733a2f2f77332d6c61622e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4765742d7468652d4d6f73742d46616e636965642d5765622d446576656c6f706d656e742d53657276696365732d6d696e2d7363616c65642e6a7067">
 
 
 <h1 align="center">Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Chirag</h1>
