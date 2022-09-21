@@ -46,7 +46,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Back-end 
-![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white&labelColor=blue)
 ![Python](https://img.shields.io/badge/Python-6DA55F?style=for-the-badge&logo=Python&logoColor=white)
 
 
