@@ -46,13 +46,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Back-end 
-![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white&labelColor=blue)
+![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6DA55F?style=for-the-badge&logo=Python&logoColor=white)
 
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=SQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234ea94b.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
 
