@@ -5,7 +5,9 @@
 
 ✓ Practical experience in using Java, JavaScript, JSP, Spring (boot), Hibernate, HTML, CSS, Angular, and SQL to design creative solutions.<br>
 
-✓ Junit job experience, including mocking<br>✓ Excellent grasp of REST endpoint connectivity and messaging-based microservice integration<br>
+✓ Junit job experience, including mocking<br>
+
+✓ Excellent grasp of REST endpoint connectivity and messaging-based microservice integration<br>
 
 ✓ Strong OOPS design abilities and thorough understanding of object modeling and design patterns.<br>
 
@@ -21,7 +23,9 @@
 
 ✓ The capacity to collaborate together with teams on all stages of the technological life cycle, such as project planning, analysis phase, system design, implementation, developing and testing code integration, application maintenance, etc.<br>
 
-✓ Excellent testing and debugging abilities.<br>✓ Extensive knowledge in all the aspects of Web Developments fundamentals and related framework.<br>
+✓ Excellent testing and debugging abilities.<br>
+
+✓ Extensive knowledge in all the aspects of Web Developments fundamentals and related framework.<br>
 
 ✓ Results-driven web development experience with expertise in front-end and back-end development. Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, Bootstrap and more.
 
