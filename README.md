@@ -17,7 +17,9 @@
 
 ✓ A desire to learn new skills and technology and a fascination with technological innovation.<br>
 
-✓ Comprehensive problem-solving skills, effective written communication talents, and interpersonal skills.<br>✓ Extensive familiarity with the Unix operating system, especially shell scripting.<br>
+✓ Comprehensive problem-solving skills, effective written communication talents, and interpersonal skills.<br>
+
+✓ Extensive familiarity with the Unix operating system, especially shell scripting.<br>
 
 ✓ Solid familiarity with database queries<br>
 
