@@ -1,11 +1,19 @@
 # 💫 About Me:
-✓ Skilled software developer and data administrator leading collaborative efforts with UI/UX designers and backend developers. Proficient in various stages of the Software Development Life Cycle (SDLC) and adept at utilizing tools like JIRA and Confluence. Worked under Agile methodologies, particularly Scrum, ensuring precise task management and timely project delivery. Adept at translating technical concepts for non-technical stakeholders and creating detailed project documentation. Mentored new team members with existing functionalities, fostering skill growth. Prior experience as a CRM dministrator, excelling in problem-solving, collaborating with cross-functional teams, and maintaining customer data in SFC. <br>
+✓ As the Salesforce Administrator, I spearheaded seamless user onboarding processes, optimizing access levels and ensuring operational efficiency. By engineering custom tabs and validation rules, I automated business logic, reducing errors by 40%. Personalizing page layouts enhanced navigation and productivity. Implementing dynamic dashboards provided real-time insights for informed decision-making. Documenting milestones facilitated continuous improvement, while training over 220 users directly led to a 23% revenue increase through improved system utilization. Proficient in various stages of the Software Development Life Cycle (SDLC) and adept at utilizing tools like JIRA and Confluence. Worked under Agile methodologies, particularly Scrum, ensuring precise task management and timely project delivery. Adept at translating technical concepts for non-technical stakeholders and creating detailed project documentation. <br>
+
+✓ Spearheaded user onboarding processes, ensuring seamless transitions and granting appropriate access levels, resulting in enhanced operational efficiency and user satisfaction.<br>
+
+✓ Engineered custom tabs, validation rules, and auto-response protocols, optimizing business logic automation and reducing manual errors by 40%.<br>
+
+✓ Personalized page layouts based on user roles, facilitating intuitive navigation and boosting productivity across departments.<br>
+
+✓ Implemented dynamic dashboards, providing real-time insights into key performance metrics, contributing to informed decision-making and strategy refinement.<br>
+
+✓ Documented project milestones and outcomes, establishing a comprehensive reference for future analysis and continuous improvement initiatives.<br>
 
 ✓ Excellent problem-solving abilities, shown competence working both solo and in teams, with little to no supervision, and access to resources.<br>
 
 ✓ Practical experience in using Java, JavaScript, JSP, Spring (boot), Hibernate, HTML, CSS, Angular, and SQL to design creative solutions.<br>
-
-✓ Junit job experience, including mocking<br>
 
 ✓ Excellent grasp of REST endpoint connectivity and messaging-based microservice integration<br>
 
@@ -13,24 +21,15 @@
 
 ✓ Expertise in designing and deploying Restful Web Services.<br>
 
-✓ An effective hands-on Java multi-threading environment.<br>
-
 ✓ A desire to learn new skills and technology and a fascination with technological innovation.<br>
 
 ✓ Comprehensive problem-solving skills, effective written communication talents, and interpersonal skills.<br>
 
 ✓ Extensive familiarity with the Unix operating system, especially shell scripting.<br>
 
-✓ Solid familiarity with database queries<br>
-
 ✓ The capacity to collaborate together with teams on all stages of the technological life cycle, such as project planning, analysis phase, system design, implementation, developing and testing code integration, application maintenance, etc.<br>
 
-✓ Excellent testing and debugging abilities.<br>
-
-✓ Extensive knowledge in all the aspects of Web Developments fundamentals and related framework.<br>
-
-✓ Results-driven web development experience with expertise in front-end and back-end development. Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, Bootstrap and more.
-
+✓ Results-driven web development experience with expertise in front-end and back-end development. Proficient in a range of programming languages and frameworks, including HTML, CSS, JavaScript, Bootstrap.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-ahir-ca/) 
